@@ -27,7 +27,7 @@ li img {
     margin-left: 20px;
 }
 h2 {
-    color: aliceblue;
+    color: #EC4067;
 }
 .grid-container1 {
     display: grid;
@@ -59,7 +59,23 @@ img {
 
 }
 h3 {
-    color: white;
+    color: whitesmoke;
     font-size: xx-large;
     font-weight: 200;
+}
+.body {
+    background: url(/Assets/Images/Backgorund.jpeg);
+}
+.links2 {
+    display: flex;
+    align-items: center;
+}
+.links2 img{
+    width: 150px;
+    display: flex;
+    margin-top: 30px;
+}
+.links2 p {
+    color: aliceblue;
+    margin-left: 5px;
 }
